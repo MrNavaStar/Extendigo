@@ -1,0 +1,4 @@
+github.com/mrnavastar/assist v0.0.0-20240803033536-ec08a1a841c6 h1:BkfaynP54yilZXNK2cQw66xPDgGmWUD4JJDCcFYD0c8=
+github.com/mrnavastar/assist v0.0.0-20240803033536-ec08a1a841c6/go.mod h1:g7rvIBEUXmx/fU1fwrgUiIMzE5xc/7avDoqf3jWFqSY=
+golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
+golang.org/x/sync v0.8.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
